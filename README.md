@@ -1,0 +1,1 @@
+A peer-to-peer (P2P) network is a type of decentralized network where individual devices connect directly to each other, rather than communicating through a centralized server. In this approach, the devices can communicate with each other even when there is no internet connection.
